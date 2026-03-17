@@ -5,7 +5,7 @@ import java.util.Objects;
 /**
  * Cours POO 1
  *
- * @author Ahoure Aka et Guillaume Savard
+ * @author Ahoure Aka && Guillaume Savard
  * @since H25
  */
 
